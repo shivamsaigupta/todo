@@ -1,13 +1,6 @@
 {
   "todo": [
     {
-      "label": "Wash clothes",
-      "done": false,
-      "userId": "105648527449958691036",
-      "id": 2,
-      "editable": false
-    },
-    {
       "label": "Paint the hose",
       "done": false,
       "userId": "105648527449958691036",
@@ -15,7 +8,7 @@
       "editable": false
     },
     {
-      "label": "Tap to editdsdds",
+      "label": "aTap t",
       "done": false,
       "editable": false,
       "userId": "105648527449958691036",
