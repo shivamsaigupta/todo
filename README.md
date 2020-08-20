@@ -11,3 +11,6 @@ $ cd todo-api && npm start
 $ cd todo-client && npm start
 ```
 ![preview](https://github.com/shivamsaigupta/todo/blob/master/preview.gif)
+
+### Typescript Migration
+WIP
